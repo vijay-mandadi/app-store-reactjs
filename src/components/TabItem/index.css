@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.tabitem {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #7b8794;
+  background-color: transparent;
+  border: 0px;
+  border-bottom: 1px solid #dfe2e5;
+  width: 90px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.activeitem {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #2563eb;
+  background-color: transparent;
+  border: 0px;
+  border-bottom: 2px solid #2563eb;
+  width: 90px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  outline: none;
+}

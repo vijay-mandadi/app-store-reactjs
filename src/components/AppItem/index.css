@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.app {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  width: 150px;
+  border-radius: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+img {
+  height: 70px;
+  width: 70px;
+}
+
+p {
+  font-family: 'Bree Serif';
+  color: #1e293b;
+  font-weight: 400;
+  text-align: center;
+}
